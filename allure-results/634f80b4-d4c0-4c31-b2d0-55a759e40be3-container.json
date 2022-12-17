@@ -1,0 +1,1 @@
+{"uuid":"634f80b4-d4c0-4c31-b2d0-55a759e40be3","name":"CreateBooking_WithValidData_returnOk()","children":["b7df3693-f267-4061-93ae-2e6b66a8ae9e"],"befores":[{"name":"setRequest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1671312162434,"stop":1671312162435}],"afters":[],"start":1671312162432,"stop":1671312164176}
